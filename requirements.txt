@@ -1,0 +1,4 @@
+Pillow==5.1.0
+pyBarcode==0.7
+python-Levenshtein==0.12.0
+reportlab==3.4.0
